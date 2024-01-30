@@ -18,7 +18,7 @@ Privacy Policy for Mobile Applications
 support@askasoft.net
 
 Privacy Policy
-This Privacy Policy describes the information collected by «Teko-TD» LLC. through our mobile applications and how we use that information.
+This Privacy Policy describes the information collected by «АСКАСОФТ» LLC. through our mobile applications and how we use that information.
 
 We take privacy seriously.
 
