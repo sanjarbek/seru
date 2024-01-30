@@ -1,12 +1,14 @@
 Политика конфиденциальности для мобильных приложений
 Privacy Policy for Mobile Applications
+=============================================================================================
 Политика конфиденциальности:
+----------------------------
 Эта политика конфиденциальности описывает условия получения и использования информации мобильными приложениями ОсОО «АСКАСОФТ».
 
 Мы очень серьезно подходим к политике конфиденциальности.
 
 Наши приложения:
-не собирают никакой пользовательской информации;
+* не собирают никакой пользовательской информации, кроме тех которые необходимы для функционирования приложений;
 
 Анонимная информация, которую мы получаем о Вас от сторонних сервисов, таких как Google Analytics, Google Play и других включает в себя: информацию об установке (например, тип операционной системы и номер версии приложения), информацию об устройстве (аппаратная модель и версия операционной системы) и информацию о поведении пользователя.
 
@@ -18,13 +20,14 @@ Privacy Policy for Mobile Applications
 support@askasoft.net
 
 Privacy Policy
+--------------
 This Privacy Policy describes the information collected by «АСКАСОФТ» LLC. through our mobile applications and how we use that information.
 
 We take privacy seriously.
 
 Our Apps:
 
-Do not collect any user information
+* Do not collect any user information except those data which are required for to functionality of apps.
 
 Anonymous information that we get about you from other services such as Google Analytics, Google Play and others includes: information about the installation (for example, operating system type and application version number), information about the device (hardware model and the version of the operating system) and users behavior information.
 
